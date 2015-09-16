@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:12.975915
+#+DATE: 2015-08-30 21:01:13.239526
 #+TITLE: 大乘起信論略述
 #+PROPERTY: CBETA_ID T85n2813
 #+PROPERTY: ID KR6o0121
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2813
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIA
 #+PROPERTY: LASTPB <pb:KR6o0121_T_002-1105a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 大乘起信論略述卷下¶
+大乘起信論略述卷下¶
 ¶
 建康沙門曇曠撰¶
 
