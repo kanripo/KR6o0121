@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:13.539460
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:54
 #+TITLE: 大乘起信論略述
 #+PROPERTY: CBETA_ID T85n2813
 #+PROPERTY: ID KR6o0121
