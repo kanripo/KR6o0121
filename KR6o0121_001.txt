@@ -1,22 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:12.920062
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:54
 #+TITLE: 大乘起信論略述
 #+PROPERTY: CBETA_ID T85n2813
 #+PROPERTY: ID KR6o0121
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2813
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0121_T_001-1089a> 
 #+PROPERTY: JUAN 1
 ¶
-No.2813[cf.No.1667]¶
+No. 2813 [cf. No. 1667]¶
 
-大乘起信論略述序
-:PROPERTIES:
-:head: 大乘起信論略述序
-:END:
-¶
+* 大乘起信論略述序¶
 ¶
 沙門澄漪述¶
 
@@ -40,8 +36,7 @@ No.2813[cf.No.1667]¶
 ¶
 ¶
 ¶
-
- 大乘起信論略述卷上¶
+大乘起信論略述卷上¶
 ¶
 建康沙門曇曠撰¶
 
@@ -100,8 +95,7 @@ No.2813[cf.No.1667]¶
 教命契本心源而造此論。以其身命歸趣三¶
 寶憑力請加故云歸命。所歸之中復有二節。¶
 盡十方者所敬分齊。最勝等者。所敬三寶。盡¶
-十方者。非唯敬佛一方三寶。盡於十方一¶
-一剎土所有三寶悉皆歸敬。顯敬周盡言盡¶
+十方者。非唯敬佛一方三寶。盡於十方一一剎土所有三寶悉皆歸敬。顯敬周盡言盡¶
 十方。三寶之中其初三句顯其佛寶。言最勝¶
 者顯佛。三身皆超過故。過小曰最。超因曰¶
 勝。業謂業用。謂即佛身三輪三德二利業用。¶
